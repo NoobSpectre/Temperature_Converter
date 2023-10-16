@@ -1,18 +1,14 @@
-# Temperature Wizard
+# Temperature Converter
 
 
 
-Temperature Wizard is a web-based temperature calculator application built using HTML, CSS, and JavaScript. It allows users to convert temperatures between different units, such as Celsius, Fahrenheit, and Kelvin.
-
-# Live Demo
-You Can Click Here To Go To The Project Website Directly [Temprature Wizard](https://temperaturewizard.vercel.app/)
+Temperature Converter is a web-based temperature calculator application built using HTML, CSS, and JavaScript. It allows users to convert temperatures between different units, such as Celsius, Fahrenheit, and Kelvin.
 
 ## Features
 
 - Temperature conversion between Celsius, Fahrenheit, and Kelvin.
 - Interactive user interface with a sleek design.
 - Real-time temperature conversion as the user enters values.
-- Clear button to reset the input fields.
 - Mobile-friendly and responsive design.
 
 ## Technologies Used
@@ -29,15 +25,15 @@ You Can Click Here To Go To The Project Website Directly [Temprature Wizard](htt
 
 To get started with Temperature Wizard, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/alok-2002/Temperature_Wizard.git`
-2. Navigate to the project directory: `cd Temperature_Wizard`
+1. Clone the repository: `git clone https://github.com/NoobSpectre/Temperature_Converter.git`
+2. Navigate to the project directory: `cd Temperature_Converter`
 3. Open the `index.html` file in your web browser.
 
 ## Usage
 
-1. Enter a temperature value in the input field labeled "Enter temperature".
-2. After entering the value, press the "Enter" key, and you will see the temperature values updated in all three fields (C, K, and F).
-3. The converted temperature will be displayed in the selected unit (Celsius, Kelvin, or Fahrenheit) in real-time as you enter or change the values.
+1. Enter a temperature value in the "Enter temperature" input field.
+2. After entering the value, press the "Enter" key to see the temperature values updated in all three fields (C, K, and F).
+3. The converted temperature will be displayed in the selected unit (Celsius, Kelvin, or Fahrenheit) in real time as you enter or change the values.
 
 ## Contributing
 
@@ -61,4 +57,4 @@ The Temperature Wizard project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, please feel free to contact the project maintainer at [Alok Sharma](mailto:sharmaalok02gwl@gmail.com)
+If you have any questions, suggestions, or feedback, please feel free to contact the project maintainer at [NoobSpectre](mailto:sohamdas1038@gmail.com)
